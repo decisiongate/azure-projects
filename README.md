@@ -4,5 +4,6 @@
 * Azure Apps & Pipelines
 	
 ## Content
-- [azure-dependencies-sdk](/azure-dependencies-sdk/README.md)
+- [azure-dependencies-sdk](azure-dependencies-sdk/README.md)
+- [azure-projects](azure-projects/README.md)
 
