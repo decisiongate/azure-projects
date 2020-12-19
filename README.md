@@ -4,6 +4,7 @@
 * Azure Apps & Pipelines
 	
 ## Content
-- [azure-dependencies-sdk](azure-dependencies-sdk/README.md)
-- [azure-projects](azure-projects/README.md)
+- [Azure dependencies - SDK](azure-dependencies-sdk/README.md)
+- [Azure projects](azure-projects/README.md)
+- [Azure Java developer documentation](azure-java-developer-documentation/README.md)
 
