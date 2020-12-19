@@ -1,13 +1,32 @@
-## Azure Projects
+## Azure data mining tasks
 
 ## Technology stack
 * Microsoft Azure
 
-## Azure Projects:
-- Migrating large volumes of data using standard Azure automation tools from on-premise and cloud infrastructure to Azure.
-- Designing service management, orchestration, monitoring, and management requirements of the cloud platform.
-- Analysis and prediction using Azure data services including ADW (Azure SQL data warehouse) and ADLS (Azure Data lake storage).
-- Real-time and streaming in Azure-based data solutions using external 3rd party APIs.
-- Creating real-time machine learning model deployment / API creation.
-- Designing, architecting and implementing large scale data processing/data storage/data distribution systems in AWS and Azure.
-- and more ...
+## Data mining tasks:
+Primitives that Define a Data Mining Task:
+- Task-relevant data
+- Type of knowledge to be mined
+- Background knowledge
+- Pattern interestingness measurements
+- Visualization/presentation of discovered patterns
+
+Types of Knowledge to Be Mined:
+- Characterization
+- Discrimination
+- Association
+- Classification/prediction
+- Clustering
+- Outlier analysis
+- Other data mining tasks
+
+Measurements of Pattern Interestingness:
+- Simplicity:
+e.g., (association) rule length, (decision) tree size
+- Certainty:
+e.g., confidence, P(A|B) = #(A and B)/ #(B), classification
+reliability or accuracy, certainty factor, rule strength, rule quality, discriminating weight, etc.
+- Utility:
+potential usefulness, e.g., support (association), noise threshold (description)
+- Novelty:
+not previously known, surprising (used to remove redundant rules)
