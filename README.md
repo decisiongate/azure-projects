@@ -1,7 +1,12 @@
 # Projects for Microsoft Azure
 
 ## Technology stack
-* Azure Apps & Pipelines
+- Azure Data Lake
+- Azure SQL Database
+- Cosmos DB
+- Azure Stream Analytics
+- Azure Kubernetes Service
+- Azure Cognitive Services
 	
 ## Content
 - [Azure dependencies - SDK](azure-dependencies-sdk/README.md)
