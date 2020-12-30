@@ -1,9 +1,11 @@
 # Projects for Microsoft Azure
 
 ## Technology stack
+- Azure App Service
 - Azure Data Lake
 - Azure SQL Database
-- Cosmos DB
+- Azure Cosmos DB
+- Azure Database for PostgreSQL
 - Azure Stream Analytics
 - Azure Kubernetes Service
 - Azure Cognitive Services
