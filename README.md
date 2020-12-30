@@ -2,7 +2,8 @@
 
 ## Technology stack
 - Azure App Service
-- Azure Data Lake
+- Azure Pipelines
+- Azure Data Lake Storage
 - Azure SQL Database
 - Azure Cosmos DB
 - Azure Database for PostgreSQL
