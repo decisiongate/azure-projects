@@ -9,6 +9,8 @@
 - Azure Stream Analytics
 - Azure Kubernetes Service
 - Azure Cognitive Services
+- Azure IoT Hub
+- Azure IoT Central
 	
 ## Content
 - [Azure dependencies - SDK](azure-dependencies-sdk/README.md)
