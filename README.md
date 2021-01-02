@@ -18,3 +18,9 @@
 - [Azure projects](azure-projects/README.md)
 - [Azure Java developer documentation](azure-java-developer-documentation/README.md)
 - [Azure data mining tasks](azure-data-mining-tasks/README.md)
+
+- Azure for Python Developers:
+https://docs.microsoft.com/pl-pl/azure/developer/python/
+
+- Azure for Java developer:
+https://docs.microsoft.com/pl-pl/azure/developer/java/
