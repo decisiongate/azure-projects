@@ -15,6 +15,7 @@
 	
 ## Content
 - [Azure dependencies - SDK](azure-dependencies-sdk/README.md)
+- [Azure documentation](azure-documentation/README.md)
 - [Azure projects](azure-projects/README.md)
 - [Azure Java developer documentation](azure-java-developer-documentation/README.md)
 - [Azure Python developer documentation](azure-python-developer-documentation/README.md)
