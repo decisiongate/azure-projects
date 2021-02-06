@@ -1,4 +1,4 @@
-# Projects for Microsoft Azure
+# Cloud Projects - Microsoft Azure
 
 ## Technology stack
 - Azure App Service
